@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;0,700;1,300&display=swap');
+
+body{
+	margin: 0;
+	font-family: 'Roboto', sans-serif;
+	/*overflow: hidden;*/
+}
+
+header{
+	overflow: hidden;
+	padding: 45px 0;
+}
+.conatiner{
+	width: 90%;
+    margin: 0 auto;
+}
+.logo{
+	width:25%;
+	float: left;
+}
+.logo a img{}
+
+.menu{
+	width:75%;
+	float: right;
+}
+.menu ul{
+	list-style: none;
+	text-align: right;
+}
+.menu ul li{
+	display: inline-block;
+}
+.menu ul li a{
+	text-decoration: none;
+	font-size: 20px;
+	color: #161616;
+	margin: 0 10px;
+}
+
+/*banner area*/
+.banner{
+	overflow: hidden;
+	padding: 45px 0;
+}
+.conatiner-secound{
+	width: 90%;
+	margin: 0 auto;
+}
+.banner-img{
+	background-image:url(image/images.jpg);
+	height:500px;
+	width:100%;
+	background-repeat: no-repeat;
+    background-size: cover;
+}
+.projects{
+	padding:50px 0;
+}
+.conatiner-third{
+	width:80%;
+	margin: 0 auto;
+}
+.single-pro{
+	width:40%;
+	float:left;
+	/*margin-top:170px;*/
+}
+.single-pro-text{}
+.single-pro-text h2{}
+.single-pro-text p{}
+.single-pro-img{
+	width: 40%;
+	float: right;
+}
+.single-pro-img img{
+	width:100%;
+}
+
+
+.project-two{
+	padding: 200px 0;
+	margin-top: 80px;
+}
+.conatiner-fourth{
+	width: 90%;
+    margin: 0 auto;
+}
+.pro-date{
+	width:45%;
+	float: left;
+}
+.pro-date-text{}
+.challenge{
+	width:45%;
+	float: right;
+}
+.challenge-text{}
+
+.services{
+
+}
+.single-service{
+	width: 33.33%;
+	float: left;
+}
+.single-service img{
+	width:100%;
+}
+
+
+
+.project-three{
+	padding: 200px 0;
+	margin-top: 80px;
+}
+.conatiner{
+	width: 90%;
+    margin: 0 auto;
+}
+.pro-role{
+	width:45%;
+	float: left;
+}
+.pro-role-text{}
+.Approach{
+	width:45%;
+	float: right;
+}
+
+.searvices-one{
+	margin: 10px;
+}
+.box-one img{
+	width:50%;
+	height: 400px;
+	float: left;
+	/*margin-right: 20px;*/
+}
+.box-two img{
+	width:50%;
+	height: 400px;
+	float: right;
+	/*margin-left: 20px;*/
+
+}
+.box-three img{
+	width: 100%;
+}
+
+button{
+	padding:15px 40px;
+	margin-top:20px;
+	display: block;
+	text-align:center ;
+	margin: 0 auto;
+}
+
+footer{
+	padding:50px 0;
+}
+.getin{
+	width: 33.33%;
+	float: left;
+}
+.footer-link{
+	width: 33.33%;
+	float: left;
+}
+.footer-menu{
+	width: 33.33%;
+	float: right;
+}
+ul{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+	font-size: 10px;
+	font-family:roboto ;
+	color:#000;
+}
+li{
+	margin: 12px 0;
+}
